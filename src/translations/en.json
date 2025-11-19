@@ -1,0 +1,20 @@
+{
+  "title": "Learn how to pronounce",
+  "description": "Learn to pronounce letters and phrases",
+  "intro": "Welcome! Here you can tap the letters and phrases to hear how they sound. Learning a new language is like a game, and you can start now!",
+  "alphabet": "Alphabet",
+  "phrases": "Phrases",
+  "choose_language": "Choose Language",
+  "examples": "Examples",
+  "letters_with_examples": "Letters with Examples",
+  "custom_text": "Custom Text",
+  "write_placeholder": "Write here the text you want to hear...",
+  "speak": "Speak",
+  "clear": "Clear",
+  "click_to_hear_letter": "Click to hear the letter pronunciation",
+  "click_to_hear_word": "Click to hear the word pronunciation",
+  "click_to_speak": "Tap to hear the word",
+  "example_letter": "Example Letter",
+  "enter": "Enter the text to hear how it's pronounced...",
+  "read": "Read it"
+}

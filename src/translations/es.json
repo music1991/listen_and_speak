@@ -1,0 +1,20 @@
+{
+  "title": "Aprende como pronunciar",
+  "description": "Aprende a pronunciar letras y frases",
+  "intro": "¡Bienvenido! Aquí puedes tocar las letras y las frases para escuchar cómo suenan. Aprender un nuevo idioma es como un juego ¡y puedes empezar ya!",
+  "alphabet": "Alfabeto",
+  "phrases": "Frases",
+  "choose_language": "Elige el idioma",
+  "examples": "Ejemplos",
+  "letters_with_examples": "Letras con Ejemplos",
+  "custom_text": "Texto Personalizado",
+  "write_placeholder": "Escribe aquí el texto que quieres escuchar...",
+  "speak": "Hablar",
+  "clear": "Limpiar",
+  "click_to_hear_letter": "Haz clic para escuchar la pronunciacion de la letra",
+  "click_to_hear_word": "Haz clic para escuchar la pronunciacion de la palabra",
+  "click_to_speak": "Haz clic para escuchar la pronunciacion",
+  "example_letter": "Ejemplo de letra",
+  "enter": "Ingresa el texto para escuchar como se pronuncia...",
+  "read": "Léelo"
+}
